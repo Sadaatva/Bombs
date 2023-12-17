@@ -1,0 +1,2 @@
+C:\msys64\mingw64\bin\ar.exe qc libbombs_lib.a CMakeFiles/bombs_lib.dir/detonate.cpp.obj CMakeFiles/bombs_lib.dir/maximum.cpp.obj
+C:\msys64\mingw64\bin\ranlib.exe libbombs_lib.a

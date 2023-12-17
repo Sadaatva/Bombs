@@ -1,0 +1,1 @@
+-I"C:/googletest-1.14.0/googlemock/include" -I"C:/googletest-1.14.0/googlemock" -isystem "C:/googletest-1.14.0/googletest/include" -isystem "C:/googletest-1.14.0/googletest"
